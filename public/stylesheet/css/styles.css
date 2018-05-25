@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	display: inline-block;
+}
+
+a {
+	color: black;
+	width: 150px;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.custom {
+	border-top: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+}
+
+.a-custom:hover {
+	color: black;
+}
+
+
+
